@@ -20,7 +20,7 @@ npm install
 ```
 npm run start
 ```
-1. 若看見此行訊息即代表順利運行：
+5. 若看見此行訊息即代表順利運行：
 ```
 Express is listening on localhost:3000
 ```
